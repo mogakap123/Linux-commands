@@ -1,0 +1,81 @@
+FILES AND DIRECTORIES
+
+cd - Change directories
+ls - List the contents of a directory
+pwd - Print working directory
+mkdir - Create folders
+rmdir - Remove folder
+cp - Copy files or folders
+mv - move files or folders
+rm - Remove files or folders
+file - Determine the type of a file
+touch - Create files
+nano - Open a terminal-based text editor
+cat - Concatenate / output contents of a file
+head - Output the first part of files
+tail - Output the last part of files
+tree - List contents of directories in a tree-like format
+find - Search for files in a directory hierarchy
+zip - Compress files into a ZIP archive format
+unzip - Extract files from a ZIP archive
+
+USERS AND GROUPS
+
+useradd - Create a user
+userdel - Delete a user account and related files
+usermod - Modify a user account
+groupadd - Create a new group
+groupdel - Delete a group
+groupmod - Modify a group definition on the system
+passwd - Change user password
+
+PERMISSION AND OWNERSHIP
+
+chmod - Change file permissions and access modes
+chown - Change ownership of files and directories
+chgrp - Change the group ownership of files and directories
+
+NETWORKING
+
+route - Show or manipulate the IP routing table
+netstat - Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+whois - Show domain registration information
+ping - send ICMP ECHO_REEQUEST to network hosts
+dig - Retrieve domain information and DNS records
+host - Retrieve domain name to IP address translations
+hostname - Display or set the system's hostname
+
+PROCESS MANAGEMENT 
+
+ps - Show active processes running in the system
+top - Display real-time information about system processes, resource usage and system statistics
+kill - Terminate or send signals to processes
+systemctl - Control the systemd system and service manager
+bg - Move a suspended or stopped process to the background
+fg - Bring a background process to the foreground
+
+DISPLAY SPACE USAGE
+
+df - report file system space usage
+du - Estimate file space usage
+free - Display amount of free and used 
+fdisk - Manipulate disk partition table
+findmnt - Find/search for a filesystem  or list all mounted filesystems
+
+ADDITIONAL COMMANDS
+
+man - Display the manual pages for commands
+whoami - Display the username of the currently logged-in user
+clear - Clear the terminal screen
+grep - Search for patterns in files or text streams and display matching lines
+history - Display a list of previously executed commands
+reboot - Restart the system
+shutdown - Initiate a system shutdown
+
+OTHER KALI LINUX COMMANDS
+
+sudo su - Used to raise your privileges to root
+sudo apt install <package-name> - used to install packages
+sudo apt update - It lists the updates for the system
+sudo apt upgrade - It updates the list of available packages and their versions 
+sudo apt install kali-linux-default - Installs essential tools for penetration testing
